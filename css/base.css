@@ -1251,3 +1251,8 @@ textarea {
 }
 
 /*# sourceMappingURL=base.css.map */
+
+
+.justify-text{
+  text-align: justify;
+}
