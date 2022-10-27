@@ -1257,6 +1257,10 @@ textarea {
   text-align: justify;
 }
 
+.center-text{
+  text-align: center;
+}
+
 .color-white{
   color:white;
 }
