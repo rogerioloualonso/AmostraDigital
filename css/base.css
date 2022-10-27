@@ -1256,3 +1256,11 @@ textarea {
 .justify-text{
   text-align: justify;
 }
+
+.color-white{
+  color:white;
+}
+
+#Bem-vindo{
+  margin: 0 !important;
+}
