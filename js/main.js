@@ -5,7 +5,7 @@
 
 $(window).scroll(function() {
     var scroll = $(window).scrollTop();
-    if (scroll >= 10) { // 140 é a distancia que vc rola antes da logo sumir
+    if (scroll >= 20) {
       $("#header_index").fadeOut();
       $("#header_musica").fadeOut();
       $("#header_about").fadeOut();
